@@ -1,0 +1,39 @@
+body {
+  background-color: #44aaff;
+}
+
+body p {
+  font-size: 1rem;
+}
+
+.container {
+  width: 70%;
+  margin: 50px auto;
+  box-shadow: 0 0 1em black;
+}
+
+td {
+  width: 12%;
+  border: 0.5em solid black;
+  vertical-align: middle;
+  text-align: center;
+}
+
+img {
+  width:100%;
+}
+
+.middle {
+  background-image: url();
+  background-size: 100%; 
+}
+
+.middle p {
+  font-size: 2em;
+  color: white;
+  font-weight: bold;
+}
+
+.middle p:nth-child(2) {
+  font-size: 1.5em;
+}
